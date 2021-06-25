@@ -1,14 +1,14 @@
-{
-    "description": "TEST abc",
-    "title": "One TEST Man",
+{    
+    "title": "War for Rayuba: Shield Soundyear II",
+    "description": "A multiversal security guard with shield and portal powers faces his greatest challenge yet.",
     "cover": "https://i.imgur.com/MxxaE9O.png",
     "chapters": {
         "1": {
             "groups": {
-                "Imgur": "https://imgur.com/a/RVfwAwb"
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
             },
             "last_updated": 1614231283,
-            "title": "TEST abc",
+            "title": "Intro",
             "volume": "1"
         }
     }
