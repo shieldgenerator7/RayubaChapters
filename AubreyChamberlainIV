@@ -1,0 +1,81 @@
+{    
+    "title": "War for Rayuba: Aubrey Chamberlain IV",
+    "description": "Runs the HR department of Pyre",
+    "author": "Neat",
+    "artist": "Neat",
+    "cover": "https://i.imgur.com/rFX4L3Bh.jpg",
+    "chapters": {
+        "1": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/xRC05Nr"
+            },
+            "last_updated": 1624606143,
+            "title": "Intro",
+            "volume": "1"
+        },        
+        "2": {
+            "groups": {
+                "Twitter": "https://twitter.com/dyogenesis/status/1362915855814647808"
+            },
+            "last_updated": 1624606143,
+            "title": "Escher vs Aubrey Chamberlain IV (by Dyo)",
+            "volume": "1"
+        },        
+        "3": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/bNMruRa"
+            },
+            "last_updated": 1624606143,
+            "title": "Aubrey Chamberlain IV vs Escher",
+            "volume": "1"
+        },        
+        "4": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/LHFF0y3"
+            },
+            "last_updated": 1624606143,
+            "title": "Pyre Quarterly Newsletter",
+            "volume": "1"
+        },        
+        "5": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/0jFszRr"
+            },
+            "last_updated": 1624606143,
+            "title": "Queen Paguroidea vs Aubrey Chamberlain IV (by harry)",
+            "volume": "1"
+        },        
+        "6": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/DXlgYc2"
+            },
+            "last_updated": 1624606143,
+            "title": "Aubrey Chamberlain IV vs Queen Paguroidea",
+            "volume": "1"
+        },        
+        "7": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/ImUQbiR"
+            },
+            "last_updated": 1624606143,
+            "title": "Aubrey Chamberlain IV vs Princess Celsa (if she real)",
+            "volume": "1"
+        },        
+        "8": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/V2awpyt"
+            },
+            "last_updated": 1624606143,
+            "title": "Zan vs Aubrey Chamberlain IV (by Captain Plaid)",
+            "volume": "1"
+        },        
+        "9": {
+            "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/DI52LWb"
+            },
+            "last_updated": 1624606143,
+            "title": "Aubrey Chamberlain IV vs Zan",
+            "volume": "1"
+        }
+    }
+}
