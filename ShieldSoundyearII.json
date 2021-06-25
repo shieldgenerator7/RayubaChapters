@@ -3,9 +3,11 @@
       "0":{
          "title":"Intro",
          "volume":"1",
-         "groups":[
-            "imgur":"/proxy/api/imgur/chapter/RVfwAwb/"
-         ],
+         "groups":{
+            "imgur":[
+               "/proxy/api/imgur/chapter/RVfwAwb/"
+               ]
+         },
          "last_updated":"637601927208190000"
       }
    }
