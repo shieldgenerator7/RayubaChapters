@@ -4,9 +4,7 @@
          "title":"Intro",
          "volume":"1",
          "groups":{
-            "imgur":[
-               "/proxy/api/imgur/chapter/RVfwAwb/"
-               ]
+            "imgur":"https://imgur.com/a/RVfwAwb"
          },
          "last_updated":"637601927208190000"
       }
