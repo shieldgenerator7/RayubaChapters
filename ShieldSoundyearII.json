@@ -9,7 +9,7 @@
       "title": "Intro",
       "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/RVfwAwb/"
+        "imgur": "/proxy/api/imgur/chapter/RVfwAwb/"
       },
       "last_updated": "637601927208190000"
     }
