@@ -1,12 +1,17 @@
 {
-   "chapters":{
-      "0":{
-         "title":"Intro",
-         "volume":"1",
-         "groups":{
-            "imgur":"https://imgur.com/a/RVfwAwb"
-         },
-         "last_updated":"637601927208190000"
-      }
-   }
+  "title": "War for Rayuba: Shield Soundyear II",
+  "description": "A multiversal security guard faces the greatest challenge he's ever faced",
+  "artist": "Shield Generator 7",
+  "author": "Shield Generator 7",
+  "cover": "https://imgur.com/MxxaE9O",
+  "chapters": {
+    "0": {
+      "title": "Intro",
+      "volume": "1",
+      "groups": {
+                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+      "last_updated": "637601927208190000"
+    },
+  }
 }
